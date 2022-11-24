@@ -1,3 +1,3 @@
-BOT_TOKEN = "5548153851:AAHGExibo4YIkxbDd5RMW4OlD6sqnHTsRbs"
+BOT_TOKEN = ""
 
 DATABASE_URL = "sqlite:///data/database/db.sqlite"
